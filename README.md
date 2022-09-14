@@ -1,6 +1,7 @@
 # Journée d'étude "La boîte à outils de la géovisualisation de données au service de la recherche" (Rennes)
 
-Automne 2022
+**Mercredi 10 janvier 2023**
+
 
 ## Objectifs
 
