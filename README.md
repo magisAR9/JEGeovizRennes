@@ -9,14 +9,14 @@ Cette journée d'étude à consonance methodologique et technique vise à prése
 
 ## Intervenants
 
-    * R (Timothée)
-    * Observable (Nicolas)
-    * MapLibre (Etienne)
-    * Arabesque (Françoise)
-    * DeckGL (Boris)
-    * Python (Julie Pierson)
-    * R Shiny (Robin)
-    * Grand témoin : Hadrien Commenges qui fera une synthèse générale en fin de journée ?
+    *R (Timothée)
+    *Observable (Nicolas)
+    *MapLibre (Etienne)
+    *Arabesque (Françoise)
+    *DeckGL (Boris)
+    *Python (Julie Pierson)
+    *R Shiny (Robin)
+    *Grand témoin : Hadrien Commenges qui fera une synthèse générale en fin de journée ?
 
 
 ## Valorisation 
