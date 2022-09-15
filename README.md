@@ -1,6 +1,7 @@
 # Journée d'étude "La boîte à outils de la géovisualisation de données au service de la recherche" (Rennes)
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://raw.githubusercontent.com/magisAR9/JEGeovizRennes/blob/main/JEGEOVIZ.JPG)
+
 
 **Mercredi 10 janvier 2023**
 
