@@ -3,7 +3,7 @@
 ![alt text](https://raw.githubusercontent.com/magisAR9/JEGeovizRennes/main/JEGEOVIZ.JPG)
 
 
-**Mercredi 10 janvier 2023**
+**Vendredi 6 janvier 2023 à Rennes**
 
 
 ## Objectifs
