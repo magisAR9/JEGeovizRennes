@@ -15,13 +15,14 @@ L'ambition est donc de se questionner sur comment et en quoi des outils mobilis�
 
 ## Intervenants
 
-* Timothée Giraud (R)
-* Nicolas Lambert (Observable)
-* Etienne Côme (Maplibre et autre)
-* Françoise Bahoken (Arabesque)
-* Boris Mericskay (Deck.GL)
-* Robin Cura (R Shiny)
-* Hadrien Commenges : synthèse et discussions autour de la boite à outils 
+* Timothée Giraud (UMS RIATE) > R
+* Nicolas Lambert (UMS RIATE) > Observable
+* Etienne Côme (Université Gustave Eiffel) > Maplibre et autres
+* Françoise Bahoken (Université Gustave Eiffel) > Arabesque
+* Boris Mericskay (UMR ESO) > Deck.GL
+* Robin Cura (UMR PRODIG, Paris)) > R Shiny
+* Julie Pierson (UMR LETG, Brest) > QGIS
+* Hadrien Commenges (UMR Géographie Cité, Paris) : synthèse et discussions autour de la boite à outils 
 
 
 ## Valorisation 
