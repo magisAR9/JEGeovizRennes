@@ -19,6 +19,7 @@ L'ambition de cette journée au format innovant est  de se questionner sur comme
 
 ## Intervenants de la journée :woman: :man:
 
+
 * [Timothée Giraud](https://rgeomatic.hypotheses.org/) (UMS RIATE) > L'environnement **R** (R Studio et différents packages comme *cartography* ou *mapsf*)
 
 * [Robin Cura](https://geographie-cites.cnrs.fr/membres/robin-cura/) (UMR PRODIG, Paris)) > **R Shiny** (Applications interactives pour la manipulation et l'exploration de données spatiales)
@@ -32,6 +33,7 @@ L'ambition de cette journée au format innovant est  de se questionner sur comme
 * [Françoise Bahoken](https://geoflowiz.hypotheses.org/)  (Université Gustave Eiffel) > **Arabesque** (applications en ligne pour la cartographie de flux)
 
 * [Julie Pierson](https://www.cnrs.fr/fr/personne/julie-pierson)  (UMR LETG, Brest) > **QGIS** (logiciel SIG) 
+
 
 
 [Hadrien Commenges](https://geographie-cites.cnrs.fr/membres/hadrien-commenges/)  (UMR Géographie Cité, Paris) : Synthèse et discussions autour de la boite à outils de géovisualisation des chercheurs  
