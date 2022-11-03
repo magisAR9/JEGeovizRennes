@@ -44,14 +44,13 @@ L'ambition de cette journée au format innovant est  de se questionner sur comme
 
 ### Horaires 
 
-De 9h30 à 17h
-Le midi un buffet sera proposé
+De 9h30 à 17h, le midi un buffet sera proposé au participants.
 
 ### Lieux 
 
 **Amphi T (Bâtiment T) / Campus Villejean de l'Université Rennes 2** [Carte interactive](http://umap.openstreetmap.fr/fr/map/je-geoviz-rennes_828286)
 
-Pour venir depis la gare SNCF de Rennes > Prendre le métro ligne A direction J.F. Kennedy et descendere à la station Villejean-Université
+Pour venir depuis la gare SNCF de Rennes > Prendre le **métro ligne A direction J.F. Kennedy et descendere à la station Villejean-Université**
 
 
 
