@@ -1,4 +1,4 @@
-# Journée d'étude "La boîte à outils de cartographie et de géovisualisation de données au service de la recherche" 
+# Journée d'étude "La boîte à outils de cartographie et de géovisualisation des données de la recherche" 
 
 
 ![alt text](https://raw.githubusercontent.com/magisAR9/JEGeovizRennes/main/JE_Visuel.JPG)
