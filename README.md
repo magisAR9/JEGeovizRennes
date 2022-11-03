@@ -8,7 +8,7 @@
 
 ## Objectifs de la journée :clipboard:
 
-Cette journée d'étude à consonance **methodologique et technique** vise à présenter et à discuter des **outils de géovisualisation de données dans des contextes de projets de recheche**. L'objectif est d'échanger sur les pratiques et les instruments de chercheurs par la démonstration et la comparaison de différentes technologies (R, Python, Javascript). 
+Cette journée d'étude portée à consonance **methodologique et technique** vise à présenter et à discuter des **outils de géovisualisation de données dans des contextes de projets de recheche**. L'objectif est d'échanger sur les pratiques et les instruments de chercheurs par la démonstration et la comparaison de différentes technologies (R, Python, Javascript). 
 
 La formule proposée s'appuie sur une exploration et une analyse cartographique par sept intervenants spécialistes des questions de cartographie et de géovisualisation d'un jeu de données commun : les trajets issus de la plateforme du Registre de preuve de covoiturage [RGP](https://covoiturage.beta.gouv.fr/).
 
