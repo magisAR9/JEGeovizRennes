@@ -58,8 +58,9 @@ Pour venir depuis la gare SNCF de Rennes > Prendre le **métro ligne A direction
 
 ### Participation
 
-Cette journée d'étude est **gratuite et ouverte à tout le monde** (chercheur, enseignant, ingenieur, étudiant, proefessionel, curieux...). 
-Afin de dimensionner au mieux le buffet merci de remplir le [tableur en ligne](https://lite.framacalc.org/xk9l7y96xx-9xed)
+Cette journée d'étude est **gratuite et ouverte à tout le monde** (chercheur, enseignant, ingenieur, étudiant, professionnel, curieux...). 
+
+Afin de dimensionner au mieux le buffet **merci de remplir le [tableur en ligne](https://lite.framacalc.org/xk9l7y96xx-9xed)**
 
 ## Partenaires :pray:
 
