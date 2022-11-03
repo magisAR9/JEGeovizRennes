@@ -18,21 +18,23 @@ L'ambition est donc de se questionner sur comment et en quoi des outils mobilis�
 
 ## Intervenants de la journée :woman: :man:
 
-* [Timothée Giraud](https://rgeomatic.hypotheses.org/)(UMS RIATE) > L'environnement **R** (R Studio et différents packages comme *cartography* ou *mapsf*)
+* [Timothée Giraud](https://rgeomatic.hypotheses.org/) (UMS RIATE) > L'environnement **R** (R Studio et différents packages comme *cartography* ou *mapsf*)
 
-* [Nicolas Lambert](https://neocarto.github.io/cv/index.html) (UMS RIATE) > l'Environnement **Observable** (Javascript et notebook) 
+* [Robin Cura](https://geographie-cites.cnrs.fr/membres/robin-cura/) (UMR PRODIG, Paris)) > **R Shiny** (Applications interactives pour la manipulation et l'exploration de données spatiales)
+
+* [Nicolas Lambert](https://neocarto.github.io/cv/index.html)  (UMS RIATE) > l'Environnement **Observable** (Javascript et notebook) 
 L'environnement 
-* [Etienne Côme](https://www.comeetie.fr/){:target="_blank"} (Université Gustave Eiffel) > **Maplibre** et autres (Javasscript, HTML, CSS)
+* [Etienne Côme](https://www.comeetie.fr/)  (Université Gustave Eiffel) > **Maplibre** et autres (Cartographie en ligne en Javascript)
 
-* [Françoise Bahoken](https://geoflowiz.hypotheses.org/){:target="_blank"} (Université Gustave Eiffel) > **Arabesque** (applications en ligne pour la cartographie de flux)
+* [Boris Mericskay](https://bmericskay.github.io/portfolio/index.html)  (UMR ESO) > **Deck.GL** (Cartographie en ligne en Javascript)
 
-* [Boris Mericskay](https://bmericskay.github.io/portfolio/index.html){:target="_blank"} (UMR ESO) > **Deck.GL** ( 
+* [Françoise Bahoken](https://geoflowiz.hypotheses.org/)  (Université Gustave Eiffel) > **Arabesque** (applications en ligne pour la cartographie de flux)
 
-* [Robin Cura](https://geographie-cites.cnrs.fr/membres/robin-cura/){:target="_blank"} (UMR PRODIG, Paris)) > **R Shiny** (Applications intrcaive pour la manipulation et l'exploration de données spatiales)
-
-* [Julie Pierson](https://www.cnrs.fr/fr/personne/julie-pierson){:target="_blank"} (UMR LETG, Brest) > **QGIS** (logiciel SIG) 
+* [Julie Pierson](https://www.cnrs.fr/fr/personne/julie-pierson)  (UMR LETG, Brest) > **QGIS** (logiciel SIG) 
 
 * [Hadrien Commenges](https://geographie-cites.cnrs.fr/membres/hadrien-commenges/){:target="_blank"} (UMR Géographie Cité, Paris) : Synthèse et discussions autour de la boite à outils de géovisualisation des chercheurs  
+
+
 
 ## Information pratiques ℹ️: 
 
