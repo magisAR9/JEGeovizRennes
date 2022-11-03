@@ -61,4 +61,10 @@ Pour venir depuis la gare SNCF de Rennes > Prendre le **métro ligne A direction
 Cette journée d'étude est **gratuite et ouverte à tout le monde** (chercheur, enseignant, ingenieur, étudiant, proefessionel, curieux...). 
 Afin de dimensionner au mieux le buffet merci de remplir le [tableur en ligne](https://lite.framacalc.org/xk9l7y96xx-9xed)
 
+## Partenaires :pray:
+
+* [Université Rennes 2](https://www.univ-rennes2.fr/)
+* [Maison des Sciences de l'Homme en Bretagne](https://www.mshb.fr/)
+* [UMR Espace et Sociétés - Rennes](http://eso.cnrs.fr/eso.cnrs.fr/fr/index.html)
+* [GdR CNRS MAGIS](http://gdr-magis.imag.fr/renouvellement-du-gdr-magis/)
 
