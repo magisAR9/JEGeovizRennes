@@ -15,7 +15,7 @@ L'ambition est donc de se questionner sur comment et en quoi des outils mobilis�
 
 ## Intervenants
 
-* Timothée Giraud (UMS RIATE) > R
+* Timothée Giraud (UMS RIATE) > R https://rgeomatic.hypotheses.org/
 * Nicolas Lambert (UMS RIATE) > Observable
 * Etienne Côme (Université Gustave Eiffel) > Maplibre et autres
 * Françoise Bahoken (Université Gustave Eiffel) > Arabesque
