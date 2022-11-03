@@ -8,7 +8,7 @@
 
 ## Objectifs de la journée :clipboard:
 
-Cette journée d'étude à consonance **methodologique et technique** vise à présenter et à discuter des **outils de cartographie et géovisualisation de données de la recheche**. L'objectif est d'échanger sur les pratiques et les instruments de chercheurs par la démonstration et la comparaison de différentes technologies (R, Python, Obersable, Biliothèques Javascript, QGIS...). 
+Cette journée d'étude à consonance **methodologique et technique** vise à présenter et à discuter des **outils de cartographie et géovisualisation de données de la recheche**. L'objectif est d'échanger sur les pratiques et les instruments de chercheurs par la démonstration et la comparaison de différentes technologies (R, Python, Observable, Biliothèques Javascript, QGIS...). 
 
 La formule proposée s'appuie sur une exploration et une analyse cartographique par sept intervenants aux profils et aux pratiques différentes d'un **jeu de données commun** : les trajets issus de la plateforme du [Registre de preuve de covoiturage](https://covoiturage.beta.gouv.fr/).
 
@@ -22,13 +22,13 @@ L'ambition de cette journée au format original est  de se questionner sur comme
 
 9h-9h30 > **Acceuil**
 
-9h30-10h10 > [Timothée Giraud](https://rgeomatic.hypotheses.org/) (UMS RIATE) > L'environnement **R** (R Studio et différents packages comme *cartography* ou *mapsf*)
+9h30-10h10 > [Timothée Giraud](https://rgeomatic.hypotheses.org/) (UAR RIATE) > Le logiciel **R** (Différents packages comme `sf` ou `mapsf`)
 
 10h10-10h40 > [Robin Cura](https://geographie-cites.cnrs.fr/membres/robin-cura/) (UMR PRODIG, Paris)) > **R Shiny** (Applications interactives pour la manipulation et l'exploration de données spatiales)
 
 10h40-11h > **Pause café**
 
-11h-11h40 > [Nicolas Lambert](https://neocarto.github.io/cv/index.html)  (UMS RIATE) > l'Environnement **Observable** (Javascript et notebook) 
+11h-11h40 > [Nicolas Lambert](https://neocarto.github.io/cv/index.html)  (UAR RIATE) > l'Environnement **Observable** (Javascript et notebook) 
 
 11h40-12h20 > [Boris Mericskay](https://bmericskay.github.io/portfolio/index.html)  (UMR ESO) > **Deck.GL** (Cartographie en ligne en Javascript)
 
@@ -36,7 +36,7 @@ L'ambition de cette journée au format original est  de se questionner sur comme
 
 14h-14h40 > [Etienne Côme](https://www.comeetie.fr/)  (Université Gustave Eiffel) > **Maplibre** et autres (Cartographie en ligne en Javascript)
 
-14h40-15h20 > [Françoise Bahoken](https://geoflowiz.hypotheses.org/)  (Université Gustave Eiffel) > **Arabesque** (applications en ligne pour la cartographie de flux)
+14h40-15h20 > [Françoise Bahoken](https://geoflowiz.hypotheses.org/)  (Université Gustave Eiffel) > **Arabesque** (Applications en ligne pour la cartographie de flux)
 
 15h20-16h > [Julie Pierson](https://www.cnrs.fr/fr/personne/julie-pierson)  (UMR LETG, Brest) > **QGIS** (logiciel SIG) 
 
