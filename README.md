@@ -18,22 +18,21 @@ L'ambition est donc de se questionner sur comment et en quoi des outils mobilis�
 
 ## Intervenants de la journée :woman: :man:
 
-* [Timothée Giraud](https://rgeomatic.hypotheses.org/)(UMS RIATE) > R 
+* [Timothée Giraud](https://rgeomatic.hypotheses.org/){:target="_blank"} (UMS RIATE) > R 
 
-* [Nicolas Lambert](https://neocarto.github.io/cv/index.html) (UMS RIATE) > Observable 
+* [Nicolas Lambert](https://neocarto.github.io/cv/index.html){:target="_blank"} (UMS RIATE) > Observable 
 
-* [Etienne Côme] (https://www.comeetie.fr/)(Université Gustave Eiffel) > Maplibre et autres 
+* [Etienne Côme](https://www.comeetie.fr/){:target="_blank"} (Université Gustave Eiffel) > Maplibre et autres 
 
-* [Françoise Bahoken] (https://geoflowiz.hypotheses.org/)(Université Gustave Eiffel) > Arabesque 
+* [Françoise Bahoken](https://geoflowiz.hypotheses.org/){:target="_blank"} (Université Gustave Eiffel) > Arabesque 
 
-* [Boris Mericskay] (https://bmericskay.github.io/portfolio/index.html)(UMR ESO) > Deck.GL 
+* [Boris Mericskay](https://bmericskay.github.io/portfolio/index.html){:target="_blank"} (UMR ESO) > Deck.GL 
 
-* [Robin Cura] (https://geographie-cites.cnrs.fr/membres/robin-cura/)(UMR PRODIG, Paris)) > R Shiny 
+* [Robin Cura](https://geographie-cites.cnrs.fr/membres/robin-cura/){:target="_blank"} (UMR PRODIG, Paris)) > R Shiny 
 
-* [Julie Pierson] (https://www.cnrs.fr/fr/personne/julie-pierson)(UMR LETG, Brest) > QGIS 
+* [Julie Pierson](https://www.cnrs.fr/fr/personne/julie-pierson){:target="_blank"} (UMR LETG, Brest) > QGIS 
 
-* [Hadrien Commenges](https://geographie-cites.cnrs.fr/membres/hadrien-commenges/)
- (UMR Géographie Cité, Paris) : synthèse et discussions autour de la boite à outils  
+* [Hadrien Commenges](https://geographie-cites.cnrs.fr/membres/hadrien-commenges/){:target="_blank"} (UMR Géographie Cité, Paris) : synthèse et discussions autour de la boite à outils  
 
 ## Information pratiques ℹ️: 
 
@@ -44,7 +43,7 @@ Le midi un buffet sera proposé
 
 ### Lieux 
 
-**Amphi T (Bâtiment T) / Campus Villejean de l'Université Rennes 2** [Carte interactive]([https://link-url-here.org](http://umap.openstreetmap.fr/fr/map/je-geoviz-rennes_828286)
+**Amphi T (Bâtiment T) / Campus Villejean de l'Université Rennes 2** [Carte interactive](https://link-url-here.org](http://umap.openstreetmap.fr/fr/map/je-geoviz-rennes_828286){:target="_blank"}
 
 Pour venir depis la gare SNCF de Rennes > Prendre le métro ligne A direction J.F. Kennedy et descendere à la station Villejean-Université
 
