@@ -46,7 +46,7 @@ Le midi un buffet sera proposé
 
 ### Lieux 
 
-**Amphi T (Bâtiment T) / Campus Villejean de l'Université Rennes 2** [Carte interactive](https://link-url-here.org](http://umap.openstreetmap.fr/fr/map/je-geoviz-rennes_828286){:target="_blank"}
+**Amphi T (Bâtiment T) / Campus Villejean de l'Université Rennes 2** [Carte interactive](https://link-url-here.org](http://umap.openstreetmap.fr/fr/map/je-geoviz-rennes_828286)
 
 Pour venir depis la gare SNCF de Rennes > Prendre le métro ligne A direction J.F. Kennedy et descendere à la station Villejean-Université
 
