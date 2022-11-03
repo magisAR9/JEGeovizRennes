@@ -18,21 +18,21 @@ L'ambition est donc de se questionner sur comment et en quoi des outils mobilis�
 
 ## Intervenants de la journée :woman: :man:
 
-* [Timothée Giraud](https://rgeomatic.hypotheses.org/){:target="_blank"} (UMS RIATE) > R 
+* [Timothée Giraud](https://rgeomatic.hypotheses.org/)(UMS RIATE) > L'environnement **R** (R Studio et différents packages comme *cartography* ou *mapsf*)
 
-* [Nicolas Lambert](https://neocarto.github.io/cv/index.html){:target="_blank"} (UMS RIATE) > Observable 
+* [Nicolas Lambert](https://neocarto.github.io/cv/index.html) (UMS RIATE) > l'Environnement **Observable** (Javascript et notebook) 
+L'environnement 
+* [Etienne Côme](https://www.comeetie.fr/){:target="_blank"} (Université Gustave Eiffel) > **Maplibre** et autres (Javasscript, HTML, CSS)
 
-* [Etienne Côme](https://www.comeetie.fr/){:target="_blank"} (Université Gustave Eiffel) > Maplibre et autres 
+* [Françoise Bahoken](https://geoflowiz.hypotheses.org/){:target="_blank"} (Université Gustave Eiffel) > **Arabesque** (applications en ligne pour la cartographie de flux)
 
-* [Françoise Bahoken](https://geoflowiz.hypotheses.org/){:target="_blank"} (Université Gustave Eiffel) > Arabesque 
+* [Boris Mericskay](https://bmericskay.github.io/portfolio/index.html){:target="_blank"} (UMR ESO) > **Deck.GL** ( 
 
-* [Boris Mericskay](https://bmericskay.github.io/portfolio/index.html){:target="_blank"} (UMR ESO) > Deck.GL 
+* [Robin Cura](https://geographie-cites.cnrs.fr/membres/robin-cura/){:target="_blank"} (UMR PRODIG, Paris)) > **R Shiny** (Applications intrcaive pour la manipulation et l'exploration de données spatiales)
 
-* [Robin Cura](https://geographie-cites.cnrs.fr/membres/robin-cura/){:target="_blank"} (UMR PRODIG, Paris)) > R Shiny 
+* [Julie Pierson](https://www.cnrs.fr/fr/personne/julie-pierson){:target="_blank"} (UMR LETG, Brest) > **QGIS** (logiciel SIG) 
 
-* [Julie Pierson](https://www.cnrs.fr/fr/personne/julie-pierson){:target="_blank"} (UMR LETG, Brest) > QGIS 
-
-* [Hadrien Commenges](https://geographie-cites.cnrs.fr/membres/hadrien-commenges/){:target="_blank"} (UMR Géographie Cité, Paris) : synthèse et discussions autour de la boite à outils  
+* [Hadrien Commenges](https://geographie-cites.cnrs.fr/membres/hadrien-commenges/){:target="_blank"} (UMR Géographie Cité, Paris) : Synthèse et discussions autour de la boite à outils de géovisualisation des chercheurs  
 
 ## Information pratiques ℹ️: 
 
