@@ -32,7 +32,8 @@ L'environnement
 
 * [Julie Pierson](https://www.cnrs.fr/fr/personne/julie-pierson)  (UMR LETG, Brest) > **QGIS** (logiciel SIG) 
 
-* [Hadrien Commenges](https://geographie-cites.cnrs.fr/membres/hadrien-commenges/){:target="_blank"} (UMR Géographie Cité, Paris) : Synthèse et discussions autour de la boite à outils de géovisualisation des chercheurs  
+
+[Hadrien Commenges](https://geographie-cites.cnrs.fr/membres/hadrien-commenges/)  (UMR Géographie Cité, Paris) : Synthèse et discussions autour de la boite à outils de géovisualisation des chercheurs  
 
 
 
