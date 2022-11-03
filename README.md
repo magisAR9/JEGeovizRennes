@@ -24,7 +24,7 @@ L'ambition de cette journée au format innovant est  de se questionner sur comme
 * [Robin Cura](https://geographie-cites.cnrs.fr/membres/robin-cura/) (UMR PRODIG, Paris)) > **R Shiny** (Applications interactives pour la manipulation et l'exploration de données spatiales)
 
 * [Nicolas Lambert](https://neocarto.github.io/cv/index.html)  (UMS RIATE) > l'Environnement **Observable** (Javascript et notebook) 
-L'environnement 
+
 * [Etienne Côme](https://www.comeetie.fr/)  (Université Gustave Eiffel) > **Maplibre** et autres (Cartographie en ligne en Javascript)
 
 * [Boris Mericskay](https://bmericskay.github.io/portfolio/index.html)  (UMR ESO) > **Deck.GL** (Cartographie en ligne en Javascript)
