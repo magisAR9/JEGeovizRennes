@@ -17,7 +17,7 @@ Les différents intervenants **présenteront et discuteront une série de cartes
 L'ambition de cette journée au format original est  de se questionner sur comment et en quoi des outils mobilisés sur un même jeu de données viennent influencer, guider voire déterminer les analyses effectuées comme les modes de représentations utilisés.
 
 
-## Programme de la journée :woman: :man:
+## Programme de la journée :clock10:
 
 
 9h-9h30 > **Acceuil**
