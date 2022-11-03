@@ -13,16 +13,16 @@ Cette journée d'étude à consonance methodologique et technique vise à prése
 L'ambition est donc de se questionner sur comment et en quoi des outils mobilisés sur un même jeu de données viennent influencer, guider voire déterminer les analyses effectuées comme les modes de représentations utilisés.
 
 
-## Intervenants
+## Intervenants de la journée
 
 * Timothée Giraud (UMS RIATE) > R https://rgeomatic.hypotheses.org/
-* Nicolas Lambert (UMS RIATE) > Observable
-* Etienne Côme (Université Gustave Eiffel) > Maplibre et autres
-* Françoise Bahoken (Université Gustave Eiffel) > Arabesque
-* Boris Mericskay (UMR ESO) > Deck.GL
-* Robin Cura (UMR PRODIG, Paris)) > R Shiny
-* Julie Pierson (UMR LETG, Brest) > QGIS
-* Hadrien Commenges (UMR Géographie Cité, Paris) : synthèse et discussions autour de la boite à outils 
+* Nicolas Lambert (UMS RIATE) > Observable https://neocarto.github.io/cv/index.html 
+* Etienne Côme (Université Gustave Eiffel) > Maplibre et autres https://www.comeetie.fr/
+* Françoise Bahoken (Université Gustave Eiffel) > Arabesque https://geoflowiz.hypotheses.org/
+* Boris Mericskay (UMR ESO) > Deck.GL https://bmericskay.github.io/portfolio/index.html
+* Robin Cura (UMR PRODIG, Paris)) > R Shiny https://geographie-cites.cnrs.fr/membres/robin-cura/
+* Julie Pierson (UMR LETG, Brest) > QGIS https://www.cnrs.fr/fr/personne/julie-pierson
+* Hadrien Commenges (UMR Géographie Cité, Paris) : synthèse et discussions autour de la boite à outils  https://geographie-cites.cnrs.fr/membres/hadrien-commenges/
 
 
 ## Valorisation 
