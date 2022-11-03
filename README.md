@@ -20,31 +20,31 @@ L'ambition de cette journée au format original est  de se questionner sur comme
 ## Programme de la journée :woman: :man:
 
 
-* 9h Acceuil
+9h-9h30 > Acceuil
 
-* 9h30-10h10 [Timothée Giraud](https://rgeomatic.hypotheses.org/) (UMS RIATE) > L'environnement **R** (R Studio et différents packages comme *cartography* ou *mapsf*)
+9h30-10h10 > [Timothée Giraud](https://rgeomatic.hypotheses.org/) (UMS RIATE) > L'environnement **R** (R Studio et différents packages comme *cartography* ou *mapsf*)
 
-* 10h10-10h40 [Robin Cura](https://geographie-cites.cnrs.fr/membres/robin-cura/) (UMR PRODIG, Paris)) > **R Shiny** (Applications interactives pour la manipulation et l'exploration de données spatiales)
+10h10-10h40 > [Robin Cura](https://geographie-cites.cnrs.fr/membres/robin-cura/) (UMR PRODIG, Paris)) > **R Shiny** (Applications interactives pour la manipulation et l'exploration de données spatiales)
 
-* 10h40-11h Pause café
+10h40-11h > Pause café
 
-* 11h-11h40 [Nicolas Lambert](https://neocarto.github.io/cv/index.html)  (UMS RIATE) > l'Environnement **Observable** (Javascript et notebook) 
+11h-11h40 > [Nicolas Lambert](https://neocarto.github.io/cv/index.html)  (UMS RIATE) > l'Environnement **Observable** (Javascript et notebook) 
 
-* 11h40-12h20 [Boris Mericskay](https://bmericskay.github.io/portfolio/index.html)  (UMR ESO) > **Deck.GL** (Cartographie en ligne en Javascript)
+11h40-12h20 > [Boris Mericskay](https://bmericskay.github.io/portfolio/index.html)  (UMR ESO) > **Deck.GL** (Cartographie en ligne en Javascript)
 
-* 12h30-14h Buffet
+12h30-14h > Buffet
 
-* 14h-14h40 [Etienne Côme](https://www.comeetie.fr/)  (Université Gustave Eiffel) > **Maplibre** et autres (Cartographie en ligne en Javascript)
+14h-14h40 > [Etienne Côme](https://www.comeetie.fr/)  (Université Gustave Eiffel) > **Maplibre** et autres (Cartographie en ligne en Javascript)
 
-* 14h40-15h20 [Françoise Bahoken](https://geoflowiz.hypotheses.org/)  (Université Gustave Eiffel) > **Arabesque** (applications en ligne pour la cartographie de flux)
+14h40-15h20 > [Françoise Bahoken](https://geoflowiz.hypotheses.org/)  (Université Gustave Eiffel) > **Arabesque** (applications en ligne pour la cartographie de flux)
 
-* 15h20-16h [Julie Pierson](https://www.cnrs.fr/fr/personne/julie-pierson)  (UMR LETG, Brest) > **QGIS** (logiciel SIG) 
+15h20-16h > [Julie Pierson](https://www.cnrs.fr/fr/personne/julie-pierson)  (UMR LETG, Brest) > **QGIS** (logiciel SIG) 
 
-* 16h-16h20 Pause
+16h-16h20 > Pause café
 
-* 16h20-16h40 [Hadrien Commenges](https://geographie-cites.cnrs.fr/membres/hadrien-commenges/)  (UMR Géographie Cité, Paris) : Synthèse et discussions autour de la boite à outils de géovisualisation des chercheurs
+16h20-16h40 > [Hadrien Commenges](https://geographie-cites.cnrs.fr/membres/hadrien-commenges/)  (UMR Géographie Cité, Paris) : Synthèse et discussions autour de la boite à outils de géovisualisation des chercheurs
 
-* 16h40 -17h30 : Discussion colective 
+16h40-17h30 > Discussion colective sur les enjeux (techniques, méthodologiques et d'usages) des outils de cartographie et de géovisualisation de données
 
 
 
