@@ -1,4 +1,4 @@
-# Journée d'étude "La boîte à outils de la géovisualisation de données au service de la recherche" (Rennes)
+# Journée d'étude "La boîte à outils de la géovisualisation de données au service de la recherche" (Rennes) 🗺️: 
 
 ![alt text](https://raw.githubusercontent.com/magisAR9/JEGeovizRennes/main/JEGEOVIZ.JPG)
 
@@ -6,7 +6,7 @@
 :globe_with_meridians: **Rennes**
 
 
-:clipboard: ## Objectifs de la journée
+## Objectifs de la journée :clipboard:
 
 Cette journée d'étude à consonance **methodologique et technique** vise à présenter et à discuter des **outils de géovisualisation de données dans des contextes de projets de recheche**. L'objectif est d'échanger sur les pratiques et les instruments de chercheurs par la démonstration et la comparaison de différentes technologies (R, Python, Javascript). 
 
@@ -16,7 +16,7 @@ La formule proposée s'appuie sur une exploration et une analyse cartographique 
 L'ambition est donc de se questionner sur comment et en quoi des outils mobilisés sur un même jeu de données viennent influencer, guider voire déterminer les analyses effectuées comme les modes de représentations utilisés.
 
 
-## Intervenants de la journée
+## Intervenants de la journée :woman: :man:
 
 * Timothée Giraud (UMS RIATE) > R https://rgeomatic.hypotheses.org/
 * Nicolas Lambert (UMS RIATE) > Observable https://neocarto.github.io/cv/index.html 
@@ -28,7 +28,7 @@ L'ambition est donc de se questionner sur comment et en quoi des outils mobilis�
 * Hadrien Commenges (UMR Géographie Cité, Paris) : synthèse et discussions autour de la boite à outils  https://geographie-cites.cnrs.fr/membres/hadrien-commenges/
 
 
-## Valorisation 
+## Information pratiques ℹ️: 
 
 => Publication commune (par les porteurs) envisagée en anglais
 
