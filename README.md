@@ -18,17 +18,35 @@ L'ambition est donc de se questionner sur comment et en quoi des outils mobilis�
 
 ## Intervenants de la journée :woman: :man:
 
-* Timothée Giraud (UMS RIATE) > R https://rgeomatic.hypotheses.org/
-* Nicolas Lambert (UMS RIATE) > Observable https://neocarto.github.io/cv/index.html 
-* Etienne Côme (Université Gustave Eiffel) > Maplibre et autres https://www.comeetie.fr/
-* Françoise Bahoken (Université Gustave Eiffel) > Arabesque https://geoflowiz.hypotheses.org/
-* Boris Mericskay (UMR ESO) > Deck.GL https://bmericskay.github.io/portfolio/index.html
-* Robin Cura (UMR PRODIG, Paris)) > R Shiny https://geographie-cites.cnrs.fr/membres/robin-cura/
-* Julie Pierson (UMR LETG, Brest) > QGIS https://www.cnrs.fr/fr/personne/julie-pierson
-* Hadrien Commenges (UMR Géographie Cité, Paris) : synthèse et discussions autour de la boite à outils  https://geographie-cites.cnrs.fr/membres/hadrien-commenges/
+* [Timothée Giraud ](https://rgeomatic.hypotheses.org/))(UMS RIATE) > R 
 
+* [Nicolas Lambert](https://rgeomatic.hypotheses.org/](https://neocarto.github.io/cv/index.html) (UMS RIATE) > Observable 
+
+* [Etienne Côme] (https://www.comeetie.fr/)(Université Gustave Eiffel) > Maplibre et autres 
+
+* [Françoise Bahoken] (https://geoflowiz.hypotheses.org/)(Université Gustave Eiffel) > Arabesque 
+
+* [Boris Mericskay] (https://bmericskay.github.io/portfolio/index.html)(UMR ESO) > Deck.GL 
+
+* [Robin Cura] (https://geographie-cites.cnrs.fr/membres/robin-cura/)(UMR PRODIG, Paris)) > R Shiny 
+
+* [Julie Pierson] (https://www.cnrs.fr/fr/personne/julie-pierson)(UMR LETG, Brest) > QGIS 
+
+* [Hadrien Commenges](https://geographie-cites.cnrs.fr/membres/hadrien-commenges/)
+ (UMR Géographie Cité, Paris) : synthèse et discussions autour de la boite à outils  
 
 ## Information pratiques ℹ️: 
 
-=> Publication commune (par les porteurs) envisagée en anglais
+### Horaires 
+
+De 9h30 à 17h
+Le midi un buffet sera proposé
+
+### Lieux 
+
+**Amphi T (Bâtiment T) / Campus Villejean de l'Université Rennes 2** [Carte interactive]([https://link-url-here.org](http://umap.openstreetmap.fr/fr/map/je-geoviz-rennes_828286))
+
+Pour venir depis la gare SNCF de Rennes > Prendre le métro ligne A direction J.F. Kennedy et descendere à la station Villejean-Université
+
+
 
