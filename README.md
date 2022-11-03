@@ -6,7 +6,7 @@
 :globe_with_meridians: **Rennes**
 
 
-## Objectifs
+:clipboard: ## Objectifs de la journée
 
 Cette journée d'étude à consonance **methodologique et technique** vise à présenter et à discuter des **outils de géovisualisation de données dans des contextes de projets de recheche**. L'objectif est d'échanger sur les pratiques et les instruments de chercheurs par la démonstration et la comparaison de différentes technologies (R, Python, Javascript). 
 
