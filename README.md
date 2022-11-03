@@ -3,7 +3,7 @@
 :calendar: **Vendredi 6 janvier 2023**
 :globe_with_meridians: **Rennes**
 
-![alt text](https://raw.githubusercontent.com/magisAR9/JEGeovizRennes/main/JEGEOVIZ.JPG)
+![alt text](https://raw.githubusercontent.com/magisAR9/JEGeovizRennes/main/JE_Visuel.JPG)
 
 
 ## Objectifs de la journée :clipboard:
