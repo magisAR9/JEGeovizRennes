@@ -18,9 +18,9 @@ L'ambition est donc de se questionner sur comment et en quoi des outils mobilis�
 
 ## Intervenants de la journée :woman: :man:
 
-* [Timothée Giraud ](https://rgeomatic.hypotheses.org/))(UMS RIATE) > R 
+* [Timothée Giraud](https://rgeomatic.hypotheses.org/)(UMS RIATE) > R 
 
-* [Nicolas Lambert](https://rgeomatic.hypotheses.org/](https://neocarto.github.io/cv/index.html) (UMS RIATE) > Observable 
+* [Nicolas Lambert](https://neocarto.github.io/cv/index.html) (UMS RIATE) > Observable 
 
 * [Etienne Côme] (https://www.comeetie.fr/)(Université Gustave Eiffel) > Maplibre et autres 
 
@@ -44,7 +44,7 @@ Le midi un buffet sera proposé
 
 ### Lieux 
 
-**Amphi T (Bâtiment T) / Campus Villejean de l'Université Rennes 2** [Carte interactive]([https://link-url-here.org](http://umap.openstreetmap.fr/fr/map/je-geoviz-rennes_828286))
+**Amphi T (Bâtiment T) / Campus Villejean de l'Université Rennes 2** [Carte interactive]([https://link-url-here.org](http://umap.openstreetmap.fr/fr/map/je-geoviz-rennes_828286)
 
 Pour venir depis la gare SNCF de Rennes > Prendre le métro ligne A direction J.F. Kennedy et descendere à la station Villejean-Université
 
