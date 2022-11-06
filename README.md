@@ -48,7 +48,7 @@ L'ambition de cette journée au format original est  de se questionner sur comme
 
 
 
-## Information pratiques ℹ️: 
+## Information pratiques ℹ️
 
 ### Lieux 
 
@@ -56,7 +56,7 @@ L'ambition de cette journée au format original est  de se questionner sur comme
 
 Pour venir depuis la gare SNCF de Rennes > Prendre le **métro ligne A direction J.F. Kennedy et descendere à la station Villejean-Université**
 
-### Participation
+### Inscription
 
 Cette journée d'étude est **gratuite et ouverte à tout le monde** (chercheur, enseignant, ingenieur, étudiant, professionnel, curieux...). 
 
