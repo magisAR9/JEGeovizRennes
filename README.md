@@ -8,7 +8,7 @@
 
 ## Objectifs de la journée :clipboard:
 
-Cette journée d'étude à consonance **methodologique et technique** vise à présenter et à discuter **des outils de cartographie et de géovisualisation de données spatiales** utilisés par la communauté scientifique. Au centre d'importants enjeux dans l'exploration, l'analyse et la représentation de données géographiques toujours plus complexes et volumineuses et la valoridation de travaux auprès de différents publics, l'objectif est d'échanger sur les pratiques et les instruments cartographiques par la démonstration et la comparaison de différentes technologies (R, Python, Obersable, Biliothèques Javascript, QGIS...). 
+Cette journée d'étude **methodologique et technique** vise à présenter et à discuter **des outils de cartographie et de géovisualisation de données spatiales** utilisés par la communauté scientifique. Au centre d'importants enjeux dans l'exploration, l'analyse et la représentation de données géographiques toujours plus complexes et volumineuses et la valoridation de travaux auprès de différents publics, l'objectif est d'échanger sur les pratiques et les instruments cartographiques par la démonstration et la comparaison de différentes technologies (R, Python, Obersable, Biliothèques Javascript, QGIS...). 
 
 La formule proposée dans cette journée d'étude s'appuie sur une exploration et une analyse cartographique par sept intervenants aux profils et aux pratiques différentes d'un **jeu de données commun** : les trajets issus de la plateforme du [Registre de preuve de covoiturage](https://covoiturage.beta.gouv.fr/). 
 
