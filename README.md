@@ -1,7 +1,7 @@
 # Journée d'étude > La boîte à outils de cartographie et de géovisualisation de données : regards croisés de chercheurs 
 
 
-![alt text](https://raw.githubusercontent.com/magisAR9/JEGeovizRennes/main/VisuelJE_OK.PNG)
+![alt text](https://raw.githubusercontent.com/magisAR9/JEGeovizRennes/main/VisuelJE_Rennes.PNG)
 
 
 ## :calendar: **Vendredi 6 janvier 2023** :globe_with_meridians: **Rennes**
