@@ -8,13 +8,13 @@
 
 ## Objectifs de la journée :clipboard:
 
-Cette journée d'étude à consonance **methodologique et technique** vise à présenter et à discuter **des outils de cartographie et de géovisualisation de données spatiales**utilisés par la communauté scientifique. Au centre d'importants enjeux dans l'exploration, l'analyse et la représentation de données géographiques toujours plus complexes et volumineuses et la valoridation des travaux auprès de larges publics l'objectif est d'échanger sur les pratiques et les instruments de par la démonstration et la comparaison de différentes technologies (R, Python, Obersable, Biliothèques Javascript, QGIS...). 
+Cette journée d'étude à consonance **methodologique et technique** vise à présenter et à discuter **des outils de cartographie et de géovisualisation de données spatiales** utilisés par la communauté scientifique. Au centre d'importants enjeux dans l'exploration, l'analyse et la représentation de données géographiques toujours plus complexes et volumineuses et la valoridation des travaux auprès de différents publics l'objectif est d'échanger sur les pratiques et les instruments de par la démonstration et la comparaison de différentes technologies (R, Python, Obersable, Biliothèques Javascript, QGIS...). 
 
 La formule proposée dans cette journée d'étude s'appuie sur une exploration et une analyse cartographique par sept intervenants aux profils et aux pratiques différentes d'un **jeu de données commun** : les trajets issus de la plateforme du [Registre de preuve de covoiturage](https://covoiturage.beta.gouv.fr/). 
 
-Les différents intervenants **présenteront et discuteront une série de cartes et de géovisualisations (statiques et interactives)** qu'ils auront produites à partir de ces données individuelles de mobilité. En plus de réflexions techniques et sémiologiques sur les modes de représentations et les formes d'intercations explorées (possibilité, avantages, limites) les discussions porteront égalemment sur les **méthodes de préparation de données**, étape préalable à toute démarche de cartographie.
+Les différents intervenants **présenteront et discuteront une série de cartes et de géovisualisations (statiques et interactives)** qu'ils auront produites à partir de ces données individuelles de mobilité en utilisant toute une série d'outils différents. En plus de réflexions techniques et sémiologiques sur les modes de représentations et les formes d'intercations explorées (possibilité, avantages, limites), les discussions porteront égalemment sur les **méthodes de préparation de données**, étape préalable à toute démarche de cartographie.
 
-L'ambition de cette journée au format original est  de se questionner sur comment et en quoi des outils mobilisés sur un même jeu de données viennent influencer, guider voire déterminer les analyses effectuées comme les modes de représentations utilisés.
+L'ambition de cette journée au format original est à la fois de faire un **tour d'horizon de la boîte à outil de cartographie contemporaine** de **se questionner sur comment et en quoi tous ces outils mobilisés sur un même jeu de données viennent influencer, guider voire déterminer les analyses effectuées comme les modes de représentations utilisés**.
 
 
 ## Programme de la journée :clock10:
