@@ -14,7 +14,7 @@ La formule proposée dans cette journée d'étude s'appuie sur une exploration e
 
 Les différents intervenants **présenteront et discuteront une série de cartes et de géovisualisations (statiques et interactives)** qu'ils auront produites à partir de ces données individuelles de mobilité en utilisant toute une série d'outils différents. En plus de réflexions techniques et sémiologiques sur les modes de représentations et les formes d'intercations explorées (possibilité, avantages, limites), les discussions porteront égalemment sur les **méthodes de préparation de données**, étape préalable à toute démarche de cartographie.
 
-L'ambition de cette journée au format original est à la fois de faire un **tour d'horizon de la boîte à outil de cartographie contemporaine** de **se questionner sur comment et en quoi tous ces outils mobilisés sur un même jeu de données viennent influencer, guider voire déterminer les analyses effectuées comme les modes de représentations utilisés**.
+L'ambition de cette journée au format original est à la fois de faire un **tour d'horizon de la boîte à outil de cartographie contemporaine** et de **se questionner sur comment et en quoi tous ces outils mobilisés pour représenter de différentes manières un même jeu de données viennent influencer, guider voire déterminer les analyses effectuées comme les modes de représentations utilisés**.
 
 
 ## Programme de la journée :clock10:
