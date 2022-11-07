@@ -16,7 +16,7 @@ Afin d'illustrer et de discuter collectivement des potentialités et des inconv�
 
 Les septs intervenants **présenteront et discuteront une série de cartes et de géovisualisations (statiques et interactives)** qu'ils auront produites à partir de données individuelles de mobilité en utilisant leur(s) outil(s) de prédilection. En plus de réflexions techniques et sémiologiques sur les modes de représentation et les formes d'interaction explorées (possibilités, avantages, limites), les discussions porteront sur les **méthodes de préparation de données**, étape préalable à toute démarche de cartographie.
 
-L'ambition de cette journée au format original est à la fois de faire un **tour d'horizon de la boîte à outils de la cartographie contemporaine** et de **se questionner sur comment et en quoi l'intrumentation technique vient influencer, guider voire déterminer les analyses effectuées et les modes de représentations utilisés**.
+L'ambition de cette journée au format original est à la fois de faire un **tour d'horizon de la boîte à outils de la cartographie contemporaine** et de **se questionner sur comment et en quoi l'intrumentation technique vient influencer, guider voire déterminer les analyses effectuées et les modes de représentation utilisés**.
 
 
 ## Programme de la journée :clock10:
