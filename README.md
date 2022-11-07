@@ -8,9 +8,9 @@
 
 ## Objectifs de la journée :clipboard:
 
-Cette journée d'étude à consonance **methodologique et technique** vise à présenter et à discuter des **outils de cartographie et géovisualisation de données de la recheche**. L'objectif est d'échanger sur les pratiques et les instruments de chercheurs par la démonstration et la comparaison de différentes technologies (R, Python, Obersable, Biliothèques Javascript, QGIS...). 
+Cette journée d'étude à consonance **methodologique et technique** vise à présenter et à discuter **des outils de cartographie et de géovisualisation de données spatiales** qui sont aujourd'hui utilisés par la communauté scientifique. Au centre d'importants enjeux dans  l'exploration, l'analyse et la représentation de données toujours plus complexes et volumineuses et la valoridation des travaux auprès de larges publics l'objectif est d'échanger sur les pratiques et les instruments de par la démonstration et la comparaison de différentes technologies (R, Python, Obersable, Biliothèques Javascript, QGIS...). 
 
-La formule proposée s'appuie sur une exploration et une analyse cartographique par sept intervenants aux profils et aux pratiques différentes d'un **jeu de données commun** : les trajets issus de la plateforme du [Registre de preuve de covoiturage](https://covoiturage.beta.gouv.fr/).
+La formule proposée dans cette journée d'étude s'appuie sur une exploration et une analyse cartographique par sept intervenants aux profils et aux pratiques différentes d'un **jeu de données commun** : les trajets issus de la plateforme du [Registre de preuve de covoiturage](https://covoiturage.beta.gouv.fr/). 
 
 Les différents intervenants **présenteront et discuteront une série de cartes et de géovisualisations (statiques et interactives)** qu'ils auront produites à partir de ces données individuelles de mobilité. En plus de réflexions techniques et sémiologiques sur les modes de représentations et les formes d'intercations explorées (possibilité, avantages, limites) les discussions porteront égalemment sur les **méthodes de préparation de données**, étape préalable à toute démarche de cartographie.
 
@@ -60,9 +60,9 @@ Pour venir depuis la gare SNCF de Rennes > Prendre le **métro ligne A direction
 
 Cette journée d'étude est **gratuite et ouverte à tout le monde** (chercheur, enseignant, ingenieur, étudiant, professionnel, curieux...). 
 
-Afin de dimensionner au mieux le buffet **merci de remplir le [tableur en ligne](https://lite.framacalc.org/xk9l7y96xx-9xed)**
+Afin de dimensionner au mieux le buffet **merci de vous inscrire sur le [tableur en ligne](https://lite.framacalc.org/xk9l7y96xx-9xed)**
 
-## Partenaires :pray:
+## Partenaires :mortar_board:
 
 * [Université Rennes 2](https://www.univ-rennes2.fr/)
 * [Maison des Sciences de l'Homme en Bretagne](https://www.mshb.fr/)
