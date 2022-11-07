@@ -26,7 +26,7 @@ L'ambition de cette journée au format original est à la fois de faire un **tou
 
 9h30-10h10 > [Timothée Giraud](https://rgeomatic.hypotheses.org/) (UMS RIATE) > L'environnement **R** (R Studio et différents packages comme *cartography* ou *mapsf*)
 
-10h10-10h40 > [Robin Cura](https://geographie-cites.cnrs.fr/membres/robin-cura/) (UMR PRODIG, Paris)) > **R Shiny** (Applications interactives pour la manipulation et l'exploration de données spatiales)
+10h10-10h40 > [Robin Cura](https://geographie-cites.cnrs.fr/membres/robin-cura/) (UMR PRODIG, Paris) > **R Shiny** (Applications interactives pour la manipulation et l'exploration de données spatiales)
 
 10h40-11h > **Pause café**
 
@@ -38,7 +38,7 @@ L'ambition de cette journée au format original est à la fois de faire un **tou
 
 14h-14h40 > [Etienne Côme](https://www.comeetie.fr/)  (Université Gustave Eiffel) > **Maplibre** et autres (Cartographie en ligne en Javascript)
 
-14h40-15h20 > [Françoise Bahoken](https://geoflowiz.hypotheses.org/)  (Université Gustave Eiffel) > **Arabesque** (applications en ligne pour la cartographie de flux)
+14h40-15h20 > [Françoise Bahoken](https://geoflowiz.hypotheses.org/)  (Université Gustave Eiffel) > **Arabesque** (application en ligne pour la cartographie de flux)
 
 15h20-16h > [Julie Pierson](https://www.cnrs.fr/fr/personne/julie-pierson)  (UMR LETG, Brest) > **QGIS** (logiciel SIG) 
 
