@@ -10,7 +10,7 @@
 
 Cette journée d'étude **méthodologique et technique** vise à présenter et à discuter **des outils de cartographie et de géovisualisation de données** utilisés par la communauté scientifique. Au centre d'importants enjeux dans l'exploration, l'analyse et la représentation de données spatiales toujours plus complexes et volumineuses, l'objectif est d'échanger sur les pratiques et les instruments cartographiques d'aujourd'hui. 
 
-En interrogeant les évolutions technologiques et d'usages de la fabrique contemporaine des cartes, cette journée sera l’occasion de développer une réflexion critique de la boîte à outils des cartographes par **l'exploration et la comparaison de différentes technologies** en perpetuel développement (R, Python, Obersvable, bibliothèques Javascript, QGIS...).
+En interrogeant les évolutions technologiques et d'usages de la fabrique contemporaine des cartes, cette journée sera l’occasion de développer une réflexion critique de la boîte à outils des cartographes par **l'exploration et la comparaison de différentes technologies** en perpetuel développement (R, Python, Observable, bibliothèques Javascript, QGIS...).
 
 Afin d'illustrer et de discuter collectivement des potentialités et des inconvénients de différents outils, **sept intervenants**, aux profils et aux pratiques différentes, se prêteront à un **exercice de multi-représentations cartographiques d'un jeu de données commun** : les trajets issus de la plateforme du [Registre de preuve de covoiturage](https://covoiturage.beta.gouv.fr/). 
 
