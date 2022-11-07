@@ -8,7 +8,7 @@
 
 ## Objectifs de la journée :clipboard:
 
-Cette journée d'étude **méthodologique et technique** vise à présenter et à discuter **des outils de cartographie et de géovisualisation de données spatiales** utilisés par la communauté scientifique. Au centre d'importants enjeux dans l'exploration, l'analyse et la représentation de données spatiales toujours plus complexes et volumineuses, l'objectif est d'échanger sur les pratiques et les instruments cartographiques d'aujourd'hui. 
+Cette journée d'étude **méthodologique et technique** vise à présenter et à discuter **des outils de cartographie et de géovisualisation de données géographiques** utilisés par la communauté scientifique. Au centre d'importants enjeux dans l'exploration, l'analyse et la représentation de données spatiales toujours plus complexes et volumineuses, l'objectif est d'échanger sur les pratiques et les instruments cartographiques d'aujourd'hui. 
 
 En interrogeant les évolutions technologiques et d'usages de la fabrique contemporaine des cartes, cette journée sera l’occasion de développer une réflexion critique de la boîte à outils des cartographes par **l'exploration et la comparaison de différentes technologies** en constant développement (R, Python, Obersvable, Biliothèques Javascript, QGIS...).
 
