@@ -64,6 +64,8 @@ Cette journée d'étude est **gratuite et ouverte à tout le monde** (chercheur,
 
 Afin de dimensionner au mieux le buffet **merci de vous inscrire sur le [tableur en ligne](https://lite.framacalc.org/xk9l7y96xx-9xed)**
 
+Pout toute questions > boris.mericskay@uiv-rennes2.fr
+
 ## Partenaires :mortar_board:
 
 * [Université Rennes 2](https://www.univ-rennes2.fr/)
