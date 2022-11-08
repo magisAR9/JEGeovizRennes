@@ -38,7 +38,7 @@ L'ambition de cette journée au format original est à la fois de faire un **tou
 
 14h-14h40 > [Etienne Côme](https://www.comeetie.fr/)  (Université Gustave Eiffel) > **Maplibre** et autres (Cartographie en ligne en Javascript)
 
-14h40-15h20 > [Françoise Bahoken](https://geoflowiz.hypotheses.org/)  (Université Gustave Eiffel) > **Arabesque** (application en ligne pour la cartographie de flux)
+14h40-15h20 > [Françoise Bahoken](https://geoflowiz.hypotheses.org/)  (Université Gustave Eiffel) > **Arabesque** (application en ligne en Javascript pour la cartographie de flux)
 
 15h20-16h > [Julie Pierson](https://www.cnrs.fr/fr/personne/julie-pierson)  (UMR LETG, Brest) > **QGIS** (logiciel SIG) 
 
