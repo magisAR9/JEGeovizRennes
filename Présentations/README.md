@@ -18,3 +18,7 @@
 * Bilan de l'outil (forces et limites)
 
 ### Regards croisés sur la boîte à outils
+
+Proposer un radar chart pour donner à voir le bilan de nos expériences
+
+![alt text](https://raw.githubusercontent.com/magisAR9/JEGeovizRennes/main/VisuelJE_Rennes.PNG)
