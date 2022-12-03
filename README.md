@@ -32,15 +32,16 @@ L'ambition de cette journée au format original est à la fois de faire un **tou
 
 11h-11h40 > [Nicolas Lambert](https://neocarto.github.io/cv/index.html)  (UMS RIATE) > l'Environnement **Observable** (Javascript et notebook) 
 
-11h40-12h20 > [Boris Mericskay](https://bmericskay.github.io/portfolio/index.html)  (UMR ESO) > **Deck.GL** (Cartographie en ligne en Javascript)
+11h40-12h20 > [Julie Pierson](https://www.cnrs.fr/fr/personne/julie-pierson)  (UMR LETG, Brest) > **QGIS/SQL** (logiciel SIG) 
 
 12h30-14h > **Buffet**
 
 14h-14h40 > [Etienne Côme](https://www.comeetie.fr/)  (Université Gustave Eiffel) > **Maplibre** et autres (Cartographie en ligne en Javascript)
 
-14h40-15h20 > [Françoise Bahoken](https://geoflowiz.hypotheses.org/)  (Université Gustave Eiffel) > **Arabesque** (application en ligne en Javascript pour la cartographie de flux)
+14h40-15h20 > [Boris Mericskay](https://bmericskay.github.io/portfolio/index.html)  (UMR ESO) > **Deck.GL** (Cartographie en ligne en Javascript)
 
-15h20-16h > [Julie Pierson](https://www.cnrs.fr/fr/personne/julie-pierson)  (UMR LETG, Brest) > **QGIS** (logiciel SIG) 
+15h20-16h > [Françoise Bahoken](https://geoflowiz.hypotheses.org/)  (Université Gustave Eiffel) > **Arabesque** (application en ligne en Javascript pour la cartographie de flux)
+
 
 16h-16h20 > **Pause café**
 
