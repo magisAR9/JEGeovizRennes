@@ -21,4 +21,6 @@
 
 Proposer un radar chart pour donner à voir le bilan de nos expériences
 
-![alt text](https://raw.githubusercontent.com/magisAR9/JEGeovizRennes/main/VisuelJE_Rennes.PNG)
+Tableau à remplir collectivement (n'hésitez pas à modifier/ajouter des variables)
+
+![alt text](https://raw.githubusercontent.com/magisAR9/JEGeovizRennes/main/Pr%C3%A9sentations/Benchmarking.PNG)
