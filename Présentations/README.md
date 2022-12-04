@@ -11,12 +11,12 @@
 
 * Historique de l'outil utilisé
 * Usages actuels
-* Vos usages actuels (quelques exemples)
+* Vos usages de cet outil (quelques exemples)
 * Préparation des données
-* Modes de représentations
-* Interactions
-* Usages potentiels
-* Bilan de l'outil (forces et limites)
+* Modes de représentations (carto et graphiques)
+* Mode d'interactions avec les données
+* Usages potentiels qu'on a pas eu le temps d'explorer
+* Bilan personnel et objectif de l'outil (forces et limites)
 
 ### Regards croisés sur la boîte à outils
 
