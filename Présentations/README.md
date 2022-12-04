@@ -10,8 +10,8 @@
 ### Structure des présentations
 
 * Historique de l'outil utilisé
-* Usages actuels
-* Vos usages de cet outil (quelques exemples)
+* Usages actuels (montrer quelques supers exemples)
+* Vos usages de cet outil (quelques exemples de vos réalisations)
 * Préparation des données
 * Modes de représentations (carto et graphiques)
 * Mode d'interactions avec les données
