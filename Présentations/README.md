@@ -9,14 +9,15 @@
 
 ### Structure des présentations
 
-* Historique de l'outil utilisé
+* Historique et principes de l'outil utilisé
+* Fonctionnalités principales
 * Usages actuels (montrer quelques supers exemples)
 * Vos usages de cet outil (quelques exemples de vos réalisations)
 * Préparation des données
-* Modes de représentations (carto et graphiques)
+* Modes de représentations (cartes et graphiques)
 * Mode d'interactions avec les données
 * Usages potentiels qu'on a pas eu le temps d'explorer
-* Bilan personnel et objectif de l'outil (forces et limites)
+* Bilan personnel de l'outil (forces et limites)
 
 ### Regards croisés sur la boîte à outils
 
