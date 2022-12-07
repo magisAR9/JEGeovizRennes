@@ -4,8 +4,9 @@
 
 * 30mn de présentation
 * 10mn de questions
-* Structure commune à toutes les présentations
-* Privilégier des présentatiions partageables (MD, Git, GoogleSLide...)
+* Trame commune à toutes les présentations
+* Privilégier des présentations partageables (MD, Git, GoogleSLide...)
+* Documenter un maximum nos réalisations dans des scripts/dépôts de code...
 
 ### Structure des présentations
 
