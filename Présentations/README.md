@@ -8,7 +8,7 @@
 * Privilégier des présentations partageables (MD, Git, GoogleSLide...)
 * Documenter un maximum nos réalisations dans des scripts/dépôts de code...
 
-### Structure des présentations
+### Trame des présentations
 
 * Historique et principes de l'outil utilisé
 * Fonctionnalités principales
@@ -18,7 +18,7 @@
 * Modes de représentations (cartes et graphiques)
 * Mode d'interactions avec les données
 * Usages potentiels qu'on a pas eu le temps d'explorer
-* Bilan personnel de l'outil (forces et limites)
+* Bilan personnel de l'outil (forces et limites) dans l'offre actuelle
 
 ### Regards croisés sur la boîte à outils
 
