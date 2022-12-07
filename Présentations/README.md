@@ -5,6 +5,7 @@
 * 30mn de présentation
 * 10mn de questions
 * Trame commune à toutes les présentations
+* Travail sur un jeu de données commun https://www.data.gouv.fr/fr/datasets/trajets-realises-en-covoiturage-registre-de-preuve-de-covoiturage/ (après chacun travaille sur les temporalités et les zones d'étude de sonc choix)
 * Privilégier des présentations partageables (MD, Git, GoogleSLide...)
 * Documenter un maximum nos réalisations dans des scripts/dépôts de code...
 
