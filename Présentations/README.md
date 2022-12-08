@@ -23,10 +23,23 @@
 
 ### Regards croisés sur la boîte à outils
 
-Proposer un radar chart pour donner à voir le bilan de nos expériences
+Proposer plusieurs graphiques/tableaux pour donner à voir le bilan de nos expériences
 
-Tableau à remplir collectivement (n'hésitez pas à modifier/ajouter des variables)
+Tableaux à remplir collectivement (n'hésitez pas à modifier/ajouter des variables)
 
 https://lite.framacalc.org/fmit2nmdfb-9xyy
 
+#### Radar Chart de synthèse
+
 ![alt text](https://raw.githubusercontent.com/magisAR9/JEGeovizRennes/main/Pr%C3%A9sentations/Benchmarking.PNG)
+
+#### Tableau recap des fonctionnalités
+
+![alt text](https://raw.githubusercontent.com/magisAR9/JEGeovizRennes/main/Pr%C3%A9sentations/TableauRecap.PNG)
+
+
+#### Schéma recap de la chaîne de traitements
+
+![alt text](https://raw.githubusercontent.com/magisAR9/JEGeovizRennes/main/Pr%C3%A9sentations/Workflow_Tools.PNG)
+
+
