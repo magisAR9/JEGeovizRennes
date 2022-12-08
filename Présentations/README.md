@@ -40,6 +40,6 @@ https://lite.framacalc.org/fmit2nmdfb-9xyy
 
 ### Schéma recap de la chaîne de traitements
 
-![alt text](https://raw.githubusercontent.com/magisAR9/JEGeovizRennes/main/Pr%C3%A9sentations/Workflow_Tools.PNG)
+![alt text](https://raw.githubusercontent.com/magisAR9/JEGeovizRennes/main/Pr%C3%A9sentations/Workflow_ToolsV1.PNG)
 
 
