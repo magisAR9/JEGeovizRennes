@@ -45,11 +45,13 @@ L'ambition de cette journée au format original est à la fois de faire un **tou
 
 16h-16h20 > **Pause café**
 
-16h20-16h40 > [Etudiants du M2 SIGAT](https://sites-formations.univ-rennes2.fr/mastersigat/)  (Université Rennes 2) : Le point de vue des etudiants sur la boîte à outils pour leur insertion professionnelle
-16h40-17h > [Hadrien Commenges](https://geographie-cites.cnrs.fr/membres/hadrien-commenges/)  (UMR Géographie Cité, Paris) : Synthèse et discussions autour de la boite à outils de géovisualisation des chercheurs
+16h20-16h40 > [Hadrien Commenges](https://geographie-cites.cnrs.fr/membres/hadrien-commenges/)  (UMR Géographie Cité, Paris) : Synthèse et discussions autour de la boite à outils de géovisualisation des chercheurs
 
 
-17-17h30 > Discussion colective sur les enjeux (techniques, méthodologiques et d'usages) des outils de cartographie et de géovisualisation de données
+16h40-17h > [Etudiants du M2 SIGAT](https://sites-formations.univ-rennes2.fr/mastersigat/)  (Université Rennes 2) : Le point de vue des etudiants sur la boîte à outils pour leur insertion professionnelle
+
+
+17-17h30 > Discussion colective sur les enjeux (techniques, méthodologiques et d'usages) des outils de cartographie et de géovisualisation de données dans la recherche
 
 
 
