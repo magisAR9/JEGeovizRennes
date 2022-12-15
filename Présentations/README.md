@@ -11,6 +11,7 @@
 
 ## Trame des présentations
 
+* Qui vous êtes
 * Historique et principes de l'outil utilisé
 * Fonctionnalités principales
 * Usages actuels (montrer quelques supers exemples)
