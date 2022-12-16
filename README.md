@@ -61,6 +61,9 @@ L'ambition de cette journée au format original est à la fois de faire un **tou
 
 **Amphi T (Bâtiment T) / Campus Villejean de l'Université Rennes 2** [Carte interactive](http://umap.openstreetmap.fr/fr/map/carte-sans-nom_847528#17/48.12001/-1.70207)
 
+![alt text](https://raw.githubusercontent.com/magisAR9/JEGeovizRennes/main/index.jpg)
+
+
 Pour venir depuis la gare SNCF de Rennes > Prendre le **métro ligne A direction J.F. Kennedy et descendere à la station Villejean-Université**
 
 ### Inscription
