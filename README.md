@@ -28,7 +28,7 @@ L'ambition de cette journée au format original est à la fois de faire un **tou
 
 10h10-10h40 > [Robin Cura](https://geographie-cites.cnrs.fr/membres/robin-cura/) (UMR PRODIG, Paris) > **R Shiny** (Applications interactives pour la manipulation et l'exploration de données spatiales)
 
-10h40-11h > **Pause café**
+10h40-11h > **Pause**
 
 11h-11h40 > [Nicolas Lambert](https://neocarto.github.io/cv/index.html)  (UMS RIATE) > l'Environnement **Observable** (Javascript et notebook) 
 
@@ -36,14 +36,14 @@ L'ambition de cette journée au format original est à la fois de faire un **tou
 
 12h30-14h > **Buffet**
 
-14h-14h40 > [Etienne Côme](https://www.comeetie.fr/)  (Université Gustave Eiffel) > **Maplibre** et autres (Cartographie en ligne en Javascript)
+14h-14h40 > [Etienne Côme](https://www.comeetie.fr/)  (Université Gustave Eiffel) > **Flowmap.gl** et autres (Cartographie en ligne en Javascript)
 
-14h40-15h20 > [Boris Mericskay](https://bmericskay.github.io/portfolio/index.html)  (UMR ESO) > **Deck.GL** (Cartographie en ligne en Javascript)
+14h40-15h20 > [Boris Mericskay](https://bmericskay.github.io/portfolio/index.html)  (UMR ESO) > **Kepler.gl et Deck.gl** (Cartographie en ligne en Javascript)
 
 15h20-16h > [Françoise Bahoken](https://geoflowiz.hypotheses.org/)  (Université Gustave Eiffel) > **Arabesque** (application en ligne en Javascript pour la cartographie de flux)
 
 
-16h-16h20 > **Pause café**
+16h-16h20 > **Pause**
 
 
 16h20-16h40 > [Etudiants du M2 SIGAT](https://sites-formations.univ-rennes2.fr/mastersigat/)  (Université Rennes 2) : Le point de vue des etudiants sur la boîte à outils pour leur insertion professionnelle
