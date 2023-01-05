@@ -40,7 +40,7 @@ L'ambition de cette journée au format original est à la fois de faire un **tou
 
 14h40-15h20 > [Boris Mericskay](https://bmericskay.github.io/portfolio/index.html)  (UMR ESO) > **Kepler.gl et Deck.gl** (Cartographie en ligne en Javascript)
 
-15h20-16h > [Françoise Bahoken](https://geoflowiz.hypotheses.org/)  (Université Gustave Eiffel) > **Arabesque** (application en ligne en Javascript pour la cartographie de flux)
+15h20-16h > [Françoise Bahoken](https://cv.hal.science/francoise-bahoken)  (Université Gustave Eiffel) > **Arabesque** (application en ligne en Javascript pour la cartographie de flux)
 
 
 16h-16h20 > **Pause**
