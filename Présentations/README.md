@@ -6,7 +6,7 @@
  
 ###  Robin Cura : R Shiny
 
-###  Nicolas Lambert : Observable
+###  Nicolas Lambert : [Observable](https://observablehq.com/@neocartocnrs/carpooling)
 
 ### Julie  Pierson : [QGIS et PostGIS](https://letg.pages.in2p3.fr/geoviz-qgis/geoviz-qgis-pres.html#1)
 
