@@ -4,7 +4,7 @@
 
 ###  Timothée Giraud : R 
  
-###  Robin Cura : R Shiny
+###  Robin Cura : [R Shiny](https://rcura.gitpages.huma-num.fr/rpc_shiny_magisar9/)
 
 ###  Nicolas Lambert : [Observable](https://observablehq.com/@neocartocnrs/carpooling)
 
