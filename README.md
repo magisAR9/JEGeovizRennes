@@ -19,20 +19,22 @@ Les sept intervenants **présenteront et discuteront une série de cartes et de 
 L'ambition de cette journée au format original est à la fois de faire un **tour d'horizon de la boîte à outils de la cartographie contemporaine** et de **se questionner sur comment et en quoi l'intrumentation technique vient influencer, guider voire déterminer les analyses effectuées et les modes de représentation utilisés**.
 
 
-## Programme de la journée :clock10:
+## Programme de la journée et présentations :clock10:
 
 
 9h-9h30 > **Acceuil**
 
-9h30-10h10 > [Timothée Giraud](https://rgeomatic.hypotheses.org/) (UMS RIATE) > L'environnement **R** (R Studio et différents packages comme *cartography* ou *mapsf*)
+[Introduction de la journée](https://github.com/magisAR9/JEGeovizRennes/raw/main/Pr%C3%A9sentations/JECARTO_INTRO.pdf)
+
+9h30-10h10 > [Timothée Giraud](https://rgeomatic.hypotheses.org/) (UMS RIATE) > L'environnement [R Shiny](https://rcura.gitpages.huma-num.fr/rpc_shiny_magisar9/) (R Studio et différents packages comme *cartography* ou *mapsf*)
 
 10h10-10h40 > [Robin Cura](https://geographie-cites.cnrs.fr/membres/robin-cura/) (UMR PRODIG, Paris) > **R Shiny** (Applications interactives pour la manipulation et l'exploration de données spatiales)
 
 10h40-11h > **Pause**
 
-11h-11h40 > [Nicolas Lambert](https://neocarto.github.io/cv/index.html)  (UMS RIATE) > l'Environnement **Observable** (Javascript et notebook) 
+11h-11h40 > [Nicolas Lambert](https://neocarto.github.io/cv/index.html)  (UMS RIATE) > l'Environnement [Observable](https://observablehq.com/@neocartocnrs/carpooling)(Javascript et notebook) 
 
-11h40-12h20 > [Julie Pierson](https://www.cnrs.fr/fr/personne/julie-pierson)  (UMR LETG, Brest) > **QGIS/SQL** (logiciel SIG) 
+11h40-12h20 > [Julie Pierson](https://www.cnrs.fr/fr/personne/julie-pierson)  (UMR LETG, Brest) > [QGIS et PostGIS](https://letg.pages.in2p3.fr/geoviz-qgis/geoviz-qgis-pres.html#1)(logiciel SIG) 
 
 12h30-14h > **Buffet**
 
