@@ -55,7 +55,7 @@ L'ambition de cette journée au format original est à la fois de faire un **tou
 17-17h30 > Discussion colective sur les enjeux (techniques, méthodologiques et d'usages) des outils de cartographie et de géovisualisation de données dans la recherche
 
 
-# Présentations des intervenants
+## Présentations des intervenants
 
 ### Boris Mericskay : [Introduction de la journée](https://github.com/magisAR9/JEGeovizRennes/raw/main/Pr%C3%A9sentations/JECARTO_INTRO.pdf)
 
